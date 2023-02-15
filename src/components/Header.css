@@ -1,0 +1,10 @@
+.header {
+  background-color: #222; /* darker background color */
+  color: #fff; /* white text color */
+  padding: 20px; /* add some padding */
+}
+
+.header-title {
+  margin: 0; /* remove margin */
+  font-size: 24px; /* set font size */
+}
