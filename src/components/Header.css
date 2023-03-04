@@ -1,10 +1,10 @@
 .header {
-  background-color: #222; /* darker background color */
-  color: #fff; /* white text color */
-  padding: 20px; /* add some padding */
+  background-color: #222; 
+  color: #fff; 
+  padding: 20px; 
 }
 
 .header-title {
-  margin: 0; /* remove margin */
-  font-size: 24px; /* set font size */
+  margin: 0; 
+  font-size: 24px; 
 }
